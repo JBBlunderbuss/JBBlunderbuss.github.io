@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Coding Peeves"
 date: 2019-06-01
 ---
